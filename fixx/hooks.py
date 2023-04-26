@@ -6,6 +6,7 @@ app_publisher = "fixx"
 app_description = "fixx"
 app_email = "fixx"
 app_license = "MIT"
+required_apps = ["erpnext"]
 
 # Includes in <head>
 # ------------------
